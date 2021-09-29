@@ -1,2 +1,2 @@
 # ML_Algorithms
-Implementation of famous ML algorithms
+Implementation of popular ML algorithms
